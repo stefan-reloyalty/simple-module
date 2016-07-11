@@ -1,0 +1,19 @@
+{
+  "name": "simple_module",
+  "version": "1.0.0",
+  "description": "Simple module for testing purposes.",
+  "main": "simple.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefan-reloyalty/simple-module.git"
+  },
+  "author": "Stefan Stefanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefan-reloyalty/simple-module/issues"
+  },
+  "homepage": "https://github.com/stefan-reloyalty/simple-module"
+}
